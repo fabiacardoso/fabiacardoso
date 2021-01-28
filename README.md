@@ -40,7 +40,7 @@ Endereço do Grupo no CNPQ: dgp.cnpq.br/dgp/espelholinha/2245629209399330713430
 
 <br>
 
-💻 Trabalho como Desenvolvedora FrontEnd e UI/UX Design<br>
+💻 Trabalho como Desenvolvedora FrontEnd e UI/UX Designer<br>
 📚 Estudante do curso de Analise e Desenvolvimento de Sistemas<br>
 🌱 Aprendendo React Js<br>
 🎓 Bacharel em Design Gráfico<br>
