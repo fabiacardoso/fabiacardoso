@@ -39,15 +39,14 @@ Além disso, recentemente a minha caminhada dentro da universidade me deu o praz
 Endereço do Grupo no CNPQ: dgp.cnpq.br/dgp/espelholinha/2245629209399330713430
 
 <br>
-
+<!--
 ## Habilidades 
 ### Que já domino:
 
-<img height="50" src="/img-skills/html.png"> <img height="50" src="/img-skills/css.png">  <img height="50" src="/img-skills/javascript.png">  <img height="50" src="/img-skills/bootstrap.png">
-
+<img height="50" src="/img-skills/html.png"> <img height="50" src="/img-skills/css.png"> 
 
 ### Que estão em desenvolvimento:
-
+-->
 
 💻 Trabalho como Desenvolvedora FrontEnd e UI/UX Designer<br>
 📚 Estudante do curso de Analise e Desenvolvimento de Sistemas<br>
