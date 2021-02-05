@@ -41,9 +41,9 @@ Endereço do Grupo no CNPQ: dgp.cnpq.br/dgp/espelholinha/2245629209399330713430
 <br>
 
 ## Habilidades 
-### Que domino:
+### Que já domino:
 
-<img src="/img-skills/html.png">
+<img height="50" src="/img-skills/html.png"> <img height="50" src="/img-skills/css.png"> <img height="50" src="/img-skills/javascript.png"> <img height="50" src="/img-skills/bootstrap.png">
 
 
 ### Que estão em desenvolvimento:
