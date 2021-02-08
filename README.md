@@ -43,7 +43,7 @@ Neste momento estou no 4 semestre do curso de Análise e Desenvolvimento de Sist
 
 Recentemente a minha caminhada dentro da universidade me deu o prazer de ser selecionada para participar da Iniciação Científica do grupo de pesquisa: Tecnologia, Organização e Sociedade. O grupo tem como linha de pesquisa o Data Science. A partir de então, somei mais esta paixão por dados na lista, já que, este mundo novo tem me fascinado cada dia mais. Para tanto tenho me dedicado a estudar, pesquisar e aplicar o máximo que consigo sobre tratamento e manipulação de dados, machine learning, PLN, Smart Cities etc.
 
-Endereço do Grupo no CNPQ: dgp.cnpq.br/dgp/espelholinha/2245629209399330713430
+Endereço do Grupo no CNPQ: http://dgp.cnpq.br/dgp/espelholinha/2245629209399330713430
 
 <br>
 
@@ -54,11 +54,11 @@ Endereço do Grupo no CNPQ: dgp.cnpq.br/dgp/espelholinha/2245629209399330713430
 <code><img height="60" src="/img-skills/js-01.png"></code>
 <br>
 <br>
-<code><img height="50" src="/img-skills/bootstrap.png"></code>
-<code><img height="50" src="/img-skills/react.png"></code>
-<code><img height="50" src="/img-skills/redux.png"></code>
-<code><img height="50" src="/img-skills/vue-01.png"></code>
-<code><img height="50" src="/img-skills/jquery-01.png"></code>
+<code><img height="48" src="/img-skills/bootstrap.png"></code>
+<code><img height="48" src="/img-skills/react.png"></code>
+<code><img height="48" src="/img-skills/redux.png"></code>
+<code><img height="48" src="/img-skills/vue-01.png"></code>
+<code><img height="48" src="/img-skills/jquery-01.png"></code>
 <br>
 <br>
 
