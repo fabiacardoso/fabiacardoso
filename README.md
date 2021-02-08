@@ -34,18 +34,24 @@ Com o objetivo de ampliar os meus horizontes através do casamento entre o Desig
 
 ## Sou Aluna de Iniciação Científica em Data Science & Inteligência Artificial!
 
-Além disso, recentemente a minha caminhada dentro da universidade me deu o prazer de ser selecionada para participar da Iniciação Científica do grupo de pesquisa: Tecnologia, Organização e Sociedade. O grupo tem como linha de pesquisa o Data Science. A partir de então, somei mais esta paixão por dados na lista, já que, este mundo novo tem me fascinado cada dia mais. Para tanto tenho me dedicado a estudar, pesquisar e aplicar o máximo que consigo sobre tratamento e manipulação de dados, machine learning, PLN, Smart Cities etc.
+Recentemente a minha caminhada dentro da universidade me deu o prazer de ser selecionada para participar da Iniciação Científica do grupo de pesquisa: Tecnologia, Organização e Sociedade. O grupo tem como linha de pesquisa o Data Science. A partir de então, somei mais esta paixão por dados na lista, já que, este mundo novo tem me fascinado cada dia mais. Para tanto tenho me dedicado a estudar, pesquisar e aplicar o máximo que consigo sobre tratamento e manipulação de dados, machine learning, PLN, Smart Cities etc.
 
 Endereço do Grupo no CNPQ: dgp.cnpq.br/dgp/espelholinha/2245629209399330713430
 
 <br>
+
+## My Front End Tech Stack:
+
+<code><img height="50" src="/img-skills/html.png"></code>
+<code><img height="50" src="/img-skills/css.png"></code>
+<code><img height="50" src="/img-skills/javascript.png"></code>
+
 <!--
 ## Habilidades 
 ### Que já domino:
 
 <img height="50" src="/img-skills/html.png"> <img height="50" src="/img-skills/css.png"> 
 
-### Que estão em desenvolvimento:
 -->
 
 💻 Trabalho como Desenvolvedora FrontEnd e UI/UX Designer<br>
