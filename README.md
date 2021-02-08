@@ -26,11 +26,18 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-**Que bom que você me encontrou!** Como você já sabe, meu nome é **Fábia**, vou te contar um pouco mais sobre mim... 
+💻 Trabalho como Desenvolvedora FrontEnd e UI/UX Designer<br>
+📚 Sou estudante do curso de Análise e Desenvolvimento de Sistemas<br>
+🌱 Estou aprendendo React Js<br>
+🎓 Sou **Bacharel em Design Gráfico** desde 2012<br>
+🎓 Sou **Especialista em Produção de Mídias para Educação Online**
+🐱 Viciada em gatos...<br>
+🌊 Do tipo que não vai sempre a praia, mas se sente realizada quando sabe que tem uma por perto!<br>
+♥️ Amo viajar, conhecer coisas novas, mesmo quando não tem praia por perto, rsrs.
+<br>
+<br> 
 
-Sou **Bacharel em Design Gráfico** pela UNIJORGE desde 2012, sou **Especialista em Produção de Mídias para Educação Online** pela UFBA. 
-
-Com o objetivo de ampliar os meus horizontes através do casamento entre o Design e a Programação. Tenho experiência e paixão por diversas áreas do design gráfico e digital, atualmente, estou cursando **Analise e Desenvolvimento de Sistemas** na UCSAL. Mas a minha mais nova paixão tem sido aprender a dar vida ao design através dos códigos com a programação de sites e aplicativos. Para garantir que todo o processo de criação aconteça de forma otimizada venho me especializando em **UI e UX**. 
+Neste momento estou no 4 semestre do curso de Análise e Desenvolvimento de Sistemas da Ucsal. Iniciei o curso com o objetivo de dar um upgrade na minha profissão, escolhi estudar programação por acreditar no casamento perfeito entre o Design e a Programação. 
 
 ## Sou Aluna de Iniciação Científica em Data Science & Inteligência Artificial!
 
@@ -42,31 +49,17 @@ Endereço do Grupo no CNPQ: dgp.cnpq.br/dgp/espelholinha/2245629209399330713430
 
 ## My Front End Tech Stack:
 
-<code><img height="50" src="/img-skills/html5-01.png"></code>
-<code><img height="50" src="/img-skills/css3-01.png"></code>
-<code><img height="50" src="/img-skills/js-01.png"></code>
+<code><img height="60" src="/img-skills/html5-01.png"></code>
+<code><img height="60" src="/img-skills/css3-01.png"></code>
+<code><img height="60" src="/img-skills/js-01.png"></code>
+<br>
+<br>
 <code><img height="50" src="/img-skills/bootstrap.png"></code>
 <code><img height="50" src="/img-skills/react.png"></code>
-<code><img height="50" src="/img-skills/edux.png"></code>
-<code><img height="50" src="/img-skills/vue.png"></code>
-<code><img height="50" src="/img-skills/jquery.png"></code>
-
-<!--
-## Habilidades 
-### Que já domino:
-
-<img height="50" src="/img-skills/html.png"> <img height="50" src="/img-skills/css.png"> 
-
--->
-
-💻 Trabalho como Desenvolvedora FrontEnd e UI/UX Designer<br>
-📚 Estudante do curso de Analise e Desenvolvimento de Sistemas<br>
-🌱 Aprendendo React Js<br>
-🎓 Bacharel em Design Gráfico<br>
-🐱 Viciada em gatos...<br>
-🌊 Do tipo que não vai sempre a praia, mas se sente realizada quando sabe que tem uma por perto!<br>
-♥️ Amo viajar, conhecer coisas novas, mesmo quando não tem praia por perto, rsrs.
-
+<code><img height="50" src="/img-skills/redux.png"></code>
+<code><img height="50" src="/img-skills/vue-01.png"></code>
+<code><img height="50" src="/img-skills/jquery-01.png"></code>
+<br>
 <br>
 
 **Let's Code!**  ♥️ 
