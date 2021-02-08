@@ -42,9 +42,14 @@ Endereço do Grupo no CNPQ: dgp.cnpq.br/dgp/espelholinha/2245629209399330713430
 
 ## My Front End Tech Stack:
 
-<code><img height="50" src="/img-skills/html.png"></code>
-<code><img height="50" src="/img-skills/css.png"></code>
-<code><img height="50" src="/img-skills/javascript.png"></code>
+<code><img height="50" src="/img-skills/html5-01.png"></code>
+<code><img height="50" src="/img-skills/css3-01.png"></code>
+<code><img height="50" src="/img-skills/js-01.png"></code>
+<code><img height="50" src="/img-skills/bootstrap.png"></code>
+<code><img height="50" src="/img-skills/react.png"></code>
+<code><img height="50" src="/img-skills/edux.png"></code>
+<code><img height="50" src="/img-skills/vue.png"></code>
+<code><img height="50" src="/img-skills/jquery.png"></code>
 
 <!--
 ## Habilidades 
