@@ -62,4 +62,16 @@ Endereço do Grupo no CNPQ: http://dgp.cnpq.br/dgp/espelholinha/2245629209399330
 <br>
 <br>
 
+<!-- 
+    **Frontend:** ReactJS, Redux, Vue.js, HTML5;
+
+    **Estilização:** Bootstrap, Materialize, CSS3, Flexbox, Grid Layout, SASS, LESS;
+
+    **Outras tecnologias:** Node (NPM), Javascript ES6, jQuery, HTML,;
+
+    **Ferramentas de controle de versão de software:** Github e GitLab;
+
+    **Metodologias Ágeis:** Scrum.
+  -->
+
 **Let's Code!**  ♥️ 
