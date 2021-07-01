@@ -19,31 +19,16 @@ Here are some ideas to get you started:
 
 ## Olá, SEJA BEM VINDO(A)! 👋
 
-💻 **Desenvolvedora FrontEnd  🎓 Designer UI/UX  🏡 Brasileira  🌎 Salvador  ✈️ Brasil**
+💻 **Desenvolvedora FrontEnd  🎓 Designer UI/UX   ✈️ Brasil**
 
 [![Linkedin Badge](https://img.shields.io/badge/-FábiaCardoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiacardoso/)](https://www.linkedin.com/in/fabiacardoso/)
 [![Gmail Badge](https://img.shields.io/badge/-fabiaprojetos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabiaprojetos@gmail.com)](mailto:fabiaprojetos@gmail.com)
 <br>
 <br>
 
-💻 Trabalho como Desenvolvedora FrontEnd e UI/UX Designer<br>
-📚 Sou estudante do curso de Análise e Desenvolvimento de Sistemas<br>
-🌱 Estou aprendendo React Js<br>
-🎓 Sou **Bacharel em Design Gráfico** desde 2012<br>
-🎓 Sou **Especialista em Produção de Mídias para Educação Online**
-🐱 Viciada em gatos...<br>
-🌊 Do tipo que não vai sempre a praia, mas se sente realizada quando sabe que tem uma por perto!<br>
-♥️ Amo viajar, conhecer coisas novas, mesmo quando não tem praia por perto, rsrs.
-<br>
-<br> 
+Tenho mais de 10 anos de experiência trabalhando com as múltiplas soluções que o design pode trazer. Mas foi com o design digital que eu me encontrei como profissional e me apaixonei pelo poder transformador que o design trás para as empresas. 
 
-Neste momento estou no 4 semestre do curso de Análise e Desenvolvimento de Sistemas da Ucsal. Iniciei o curso com o objetivo de dar um upgrade na minha profissão, escolhi estudar programação por acreditar no casamento perfeito entre o Design e a Programação. 
-
-## Sou Aluna de Iniciação Científica em Data Science & Inteligência Artificial!
-
-Recentemente a minha caminhada dentro da universidade me deu o prazer de ser selecionada para participar da Iniciação Científica do grupo de pesquisa: Tecnologia, Organização e Sociedade. O grupo tem como linha de pesquisa o Data Science. A partir de então, somei mais esta paixão por dados na lista, já que, este mundo novo tem me fascinado cada dia mais. Para tanto tenho me dedicado a estudar, pesquisar e aplicar o máximo que consigo sobre tratamento e manipulação de dados, machine learning, PLN, Smart Cities etc.
-
-Endereço do Grupo no CNPQ: http://dgp.cnpq.br/dgp/espelholinha/2245629209399330713430
+Atualmente venho me capacitando como desenvolvedora Frontend e Backend. Para mim Design e Desenvolvimento formam um casamento perfeito.   
 
 <br>
 
